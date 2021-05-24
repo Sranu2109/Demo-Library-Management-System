@@ -1,0 +1,5 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [id]
+      ,[Username]
+      ,[Pass]
+  FROM [libManagementDB].[dbo].[loginTable1]
