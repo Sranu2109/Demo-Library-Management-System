@@ -1,0 +1,9 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [stuid]
+      ,[sname]
+      ,[enroll]
+      ,[dep]
+      ,[sem]
+      ,[contact]
+      ,[email]
+  FROM [libManagementDB].[dbo].[NewStudent]
