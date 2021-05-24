@@ -1,0 +1,12 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [id]
+      ,[std_enroll]
+      ,[std_name]
+      ,[std_dep]
+      ,[std_sem]
+      ,[std_contact]
+      ,[std_email]
+      ,[book_name]
+      ,[book_issue_date]
+      ,[book_return_date]
+  FROM [libManagementDB].[dbo].[IRBook]
