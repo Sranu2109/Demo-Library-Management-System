@@ -17,7 +17,8 @@ A web design for how the actual library management system works developed using 
 
 ## Functional Requirements
 + Admin/Librarian dashboard deal with the following :
-```1. Add new member/student records by adding roll no., address, name, phone no.,etc details.
+```
+1. Add new member/student records by adding roll no., address, name, phone no.,etc details.
 2. Delete member/student records in case left or pass outs.
 3. Update member/student records if one wants to change phone no., address,etc.
 4. Can view all members records.
@@ -34,7 +35,8 @@ A web design for how the actual library management system works developed using 
 ```
 
 + Students have the access to:
-```1. Register themselves in the database by adding details.
+```
+1. Register themselves in the database by adding details.
 2. Searching for books 
       by branch name 
       by author name 
