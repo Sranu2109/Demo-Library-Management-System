@@ -1,5 +1,5 @@
 # Demo-Library-Management-System
-A web design for how the actual library management system works developed using C# programming language. The entire development video with explanation of each and every part is available on youtube - [Link](https://www.youtube.com/watch?v=YhAwNITpnno&t=583s)
+A web design for how the actual library management system works developed using C# programming language.
 
 ### Default Login Credentials
 | Username  | Password |
@@ -11,6 +11,7 @@ A web design for how the actual library management system works developed using 
 ## System Requirements
 + [Functional Requirements](#functional-requirements)
 + [Non-Functional Requirements](#non-functional-requirements)
++ [Screenshots](#screenshots)
 
 ## Functional Requirements
 + Admin/Librarian dashboard deal with the following :
@@ -66,5 +67,23 @@ A web design for how the actual library management system works developed using 
 + 2 GB RAM is required as it will provide fast reading and writing capabilities which will in turn result in better performance time.
 
 ## Screenshots
+### Add Book
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/1(Add%20Book).png?raw=true"/>
 
-<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/1(Add%20Book).png?raw=true"> 
+### View Book
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/2(View%20Book).png?raw=true">
+
+### Add Student
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/3(Add%20Student).png?raw=true">
+
+### View Student
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/4(View%20Student).png?raw=true">
+
+### Issue Book
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/5(Issue%20Book).png?raw=true">
+
+### Return Book
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/6(Return%20Book).png?raw=true">
+
+### Complete Details
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/7(Complete%20Details).png?raw=true">
