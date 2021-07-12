@@ -1,6 +1,8 @@
 # Demo-Library-Management-System
 A web design for how the actual library management system works developed using C# programming language.
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sranu2109/Demo-Library-Management-System.svg?logo=git&style=social)](https://Sranu2109.github.io/Demo-Library-Management-System/) 
+
 ### Default Login Credentials
 | Username  | Password |
 | ------------- | ------------- |
