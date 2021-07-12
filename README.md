@@ -65,3 +65,6 @@ A web design for how the actual library management system works developed using 
 
 + 2 GB RAM is required as it will provide fast reading and writing capabilities which will in turn result in better performance time.
 
+## Screenshots
+
+<img src="https://github.com/Sranu2109/Demo-Library-Management-System/blob/master/screenshots/1(Add%20Book).png?raw=true"> 
